@@ -1,9 +1,31 @@
 {
-  "nome": "Nome do Pet",
-  "idade": "Idade do Pet",
-  "tipo": "Tipo do Pet",
+  "animais": [
+    {
+      "id": 1,
+     "nome": "jumera",
+  "idade": "18",
+  "tipo": "gato",
   "castrado": true,
   "vacinas": false,
   "fotos": ["foto1.jpg", "foto2.jpg"]
-}
-
+    },
+    {
+      "id": 2,
+      "nome": "jumera",
+  "idade": "18",
+  "tipo": "gato",
+  "castrado": true,
+  "vacinas": false,
+  "fotos": ["foto1.jpg", "foto2.jpg"]
+    },
+    {
+      "id": 3,
+       "nome": "jumera",
+  "idade": "18",
+  "tipo": "gato",
+  "castrado": true,
+  "vacinas": false,
+  "fotos": ["foto1.jpg", "foto2.jpg"]
+    }
+  ],
+  
