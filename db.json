@@ -1,1 +1,9 @@
+{
+  "nome": "Nome do Pet",
+  "idade": "Idade do Pet",
+  "tipo": "Tipo do Pet",
+  "castrado": true,
+  "vacinas": false,
+  "fotos": ["foto1.jpg", "foto2.jpg"]
+}
 
