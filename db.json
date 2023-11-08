@@ -1,31 +1,13 @@
 {
-  "animais": [
-    {
-      "id": 1,
-     "nome": "jumera",
-  "idade": "18",
-  "tipo": "gato",
-  "castrado": true,
-  "vacinas": false,
-  "fotos": ["foto1.jpg", "foto2.jpg"]
-    },
-    {
-      "id": 2,
-      "nome": "jumera",
-  "idade": "18",
-  "tipo": "gato",
-  "castrado": true,
-  "vacinas": false,
-  "fotos": ["foto1.jpg", "foto2.jpg"]
-    },
-    {
-      "id": 3,
-       "nome": "jumera",
-  "idade": "18",
-  "tipo": "gato",
-  "castrado": true,
-  "vacinas": false,
-  "fotos": ["foto1.jpg", "foto2.jpg"]
+    "cadastrodepet": {
+        "nomedopet": "nina",
+        "idadedopet ": "5",
+        "tipodepet": [
+            "cachorro",
+            "gato"
+        ],
+        "castrado": true,
+        "vacinas": true,
+        "img": "https://www.petz.com.br/blog/wp-content/uploads/2017/05/cachorro-com-rabo-e-pele-branca.jpg"
     }
-  ],
-  
+}
